@@ -11,8 +11,7 @@ CosmJS/InterchainJS, Sylvia framework, etc.
 
 ## Where is it?
 
-The website is hosted at
-[docs.cosmwasm.com](https://docs.cosmwasm.com/).
+The website is hosted at [cosmwasm.cosmos.network](https://cosmwasm.cosmos.network).
 
 ## How is it made?
 
